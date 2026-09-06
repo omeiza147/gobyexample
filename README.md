@@ -1,2 +1,2 @@
 # gobyexample
-Simple go Programs
+My introduction to Go
